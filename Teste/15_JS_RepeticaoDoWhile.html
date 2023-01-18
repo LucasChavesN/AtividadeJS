@@ -7,14 +7,17 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-    <title> Soma de varios números inteiros de 2 a 100 </title>
+    <title> Usando a Estrutura de Repetição Do While </title>
     <script type="text/javascript">
         <!-- 
-            var soma = 0;
+            var contador = 1;
 
-            for (var numero = 1; numero <=1000; numero += 2)
-                soma += numero;
-            document.writeln("A soma de varios inteiros " + "de 1 a 1000 é " + soma);
+            do {
+                document.writeln("<h" + contador + ">este é "+
+                    "um h" + contador + " Nivel de Head" + "</h>" +
+                    contador + ">");
+                ++contador
+            } while (contador <=6);
         // -->
     </script>
 </head>
