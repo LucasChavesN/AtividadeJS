@@ -1,0 +1,22 @@
+[
+    {
+        "id":"001",
+        "desc":"produto01",
+        "qtda":"1000"
+    },
+    {
+        "id":"002",
+        "desc":"produto02",
+        "qtda":"2000"
+    },
+    {
+        "id":"003",
+        "desc":"produto03",
+        "qtda":"3000"
+    },
+    {
+        "id":"004",
+        "desc":"produto04",
+        "qtda":"500"
+    }
+]

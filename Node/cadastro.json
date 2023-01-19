@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Lucas Chaves",
+        "idade": "22",
+        "altura": "1.70",
+        "pais": "Brasil"
+    },
+    {
+        "nome": "Felipe",
+        "idade": "18",
+       "altura": "1.74",
+        "pais": "Brasil"
+    },
+
+    {
+        "nome": "Luis",
+        "idade": "21",
+       "altura": "1.75",
+        "pais": "Brasil"
+    }
+
+]
